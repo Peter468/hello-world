@@ -1,5 +1,5 @@
 # hello-world
 Dump spot
 
-Random text here as an test to see how it works.
+Random text here as a test to see how it works.
 
